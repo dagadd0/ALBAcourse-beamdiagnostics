@@ -23,7 +23,7 @@ The measurements were performed at the ALBA Linac transfer line. The beam is tra
 ### Beamline Layout
 
 <p align="center">
-  <img src="Figures/intro/sketch.png" width="700">
+  <img src="Figures/sketch.png" width="700">
 </p>
 
 *Sketch of the ALBA Linac, transfer line, and diagnostics section used for the emittance measurements.*
