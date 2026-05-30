@@ -18,7 +18,7 @@ The analysis is based on beam-size measurements acquired at the FSOTR diagnostic
 
 ## Experimental Setup
 
-The measurements were performed at the ALBA Linac transfer line. The beam is transported through a quadrupole section and observed on the FSOTR screen, where the transverse beam size is measured for different quadrupole settings.
+The measurements were performed at the ALBA Linac transfer line. The beam is transported through a quadrupole section and observed on the FSOTR screen.
 
 ### Beamline Layout
 
