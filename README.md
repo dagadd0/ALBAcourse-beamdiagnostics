@@ -42,37 +42,6 @@ The analysis follows these steps:
 6. Compare results with ALBA control-room diagnostics.
 ---
 
-## Repository Structure
-
-```text
-.
-├── Figures/
-│   │
-│   ├── sketch.png
-│   │
-│   ├── 10h37_BCM_(1).png
-│   ├── 10h39_BeamCharge.png
-│   ├── 10h48_Energy.png
-│   ├── 11h08_emit_x.png
-│   ├── 11h18_emit_y.png
-│   ├── quad_scan_multibunchhorizontal.png
-│   ├── quad_scan_multibunchvertical.png
-│   │
-│   │
-│   ├── 11h42_emit_x_sb.png
-│   ├── quad_scan_singlebunchhorizontal.png
-│   └── quad_scan_singlebunchvertical.png
-│
-├── data-plots-tables.ipynb
-├── report.tex
-├── emittance_measurements_report.pdf
-├── Guio_Practica_Emit_LT.pdf
-├── 2026_Practicas_Emitt_LINCA_LT.pdf
-└── README.md
-```
-
----
-
 ## Results
 
 ### Multi-Bunch Mode
@@ -187,5 +156,37 @@ The results demonstrate:
 - Validity of the thin-lens approximation for the explored focusing strengths.
 - Increased horizontal emittance in single-bunch operation due to space-charge effects.
 - Typical normalized emittances in the range of 10–20 μm·rad for an 80 MeV thermionic-gun linac.
+
+---
+
+
+## Repository Structure
+
+```text
+.
+├── Figures/
+│   │
+│   ├── sketch.png
+│   │
+│   ├── 10h37_BCM_(1).png
+│   ├── 10h39_BeamCharge.png
+│   ├── 10h48_Energy.png
+│   ├── 11h08_emit_x.png
+│   ├── 11h18_emit_y.png
+│   ├── quad_scan_multibunchhorizontal.png
+│   ├── quad_scan_multibunchvertical.png
+│   │
+│   │
+│   ├── 11h42_emit_x_sb.png
+│   ├── quad_scan_singlebunchhorizontal.png
+│   └── quad_scan_singlebunchvertical.png
+│
+├── data-plots-tables.ipynb
+├── report.tex
+├── emittance_measurements_report.pdf
+├── Guio_Practica_Emit_LT.pdf
+├── 2026_Practicas_Emitt_LINCA_LT.pdf
+└── README.md
+```
 
 ---
